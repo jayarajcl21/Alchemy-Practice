@@ -1,0 +1,49 @@
+                                                          							
+				
+                                                     USER STORIES		        26-02-2024
+
+Definition:
+it is the perspective of the end user 
+User stories are part of an agile approach that helps shift the focus from writing about requirements to talking about them
+Agile methodology is an flexible approach to software development that prioritizes collaboration, adaptability, and customer satisfaction
+These stories use to provide context for the development team and their efforts. After reading a user story, the team knows why they are building, what they're building, and what value it creates. 
+
+where ?(organization senario)
+where an exisiting products are sold very well in the market
+introducitng new product
+introducing new feature with existing project
+ex: an hr application used to submit the claims of the employees 
+1st user -employe who needs an interface to claim  .                   
+2nd user - approver who needs an interface to approve.
+3rd user - financiar who needs to monetize the claim
+
+user story consits of the building blocks of agile 
+1. epics - many number of user stories forms epic.
+2. initiatives- combination of epics form initiatives
+
+these helps us to know the perspective of different users 
+advantages of user stories -
+1.it delivers high quality content(bcoz wt to be accomplished at the user perspective would be clear).
+2.it eases collabaration with team members (each member in a team has different view point on the user story).
+3. improves transparency (as disscussions happens and user story wouldn't be picked like that collabaration helps in tramsparancy).
+
+INVESTING IN USER STORY
+1.the story shoul be valuable                        2.it should be estimable
+ 
+
+
+User Story:
+"As an employee, I want to be able to submit a reimbursement claim for expenses incurred during official duties. Upon submission, the claim should be reviewed and approved by my manager. Once approved, the financial team should process the reimbursement and credit the approved amount to my account."
+
+
+
+Acceptance Criteria:
+
+As an employee, I can log in to the HR application and navigate to the reimbursement section.
+I can fill out a reimbursement form providing details such as expense type, amount, and supporting documents.
+Once the reimbursement request is submitted, I receive a confirmation notification.
+As a manager, I can log in to the HR application and access the pending reimbursement requests.
+I can review the details of each request and either approve or reject the reimbursement claim.
+If approved, the financial team is notified automatically.
+The financial team processes the approved reimbursement and updates the employee's account balance.
+The employee receives a notification upon successful reimbursement with details of the credited amount.
