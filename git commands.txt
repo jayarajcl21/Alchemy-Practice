@@ -63,3 +63,5 @@ The command is used after a local repository has been modified, and the modifica
 
 The git log command shows the order of the commit history for a repository.
 The command helps in understanding the state of the current branch by showing the commits that lead to this state.
+
+10. git remote origin "https:github.com/jayarajcl21/alchemy-practice" - this command is used to ad connect our local repository to github
